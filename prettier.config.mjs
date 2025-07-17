@@ -1,0 +1,7 @@
+export default {
+  arrowParens: "avoid",
+  importOrderSeparation: true,
+  importOrderSortSpecifiers: true,
+  importOrderGroupNamespaceSpecifiers: true,
+  plugins: ["@trivago/prettier-plugin-sort-imports"],
+};
